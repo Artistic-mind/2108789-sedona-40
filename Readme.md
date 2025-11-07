@@ -2,7 +2,7 @@
 
 * Студент: [Inessa]
 * Наставник: [ `Нет наставника`.]
-* Проект: [[проект Седона]()] ([https://artistic-mind.github.io/Sedona/](https://artistic-mind.github.io/Sedona/))
+* Проект: [[проект Седона]()] ([https://artistic-mind.github.io/2108789-sedona-40/](https://artistic-mind.github.io/2108789-sedona-40/))
 
 ---
 
